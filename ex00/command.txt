@@ -1,0 +1,298 @@
+    1  setxbkmap fr
+    2  setxkbmap fr
+    3  mkdir tp_linux
+    4  cd tp_linux
+    5  wget
+    6  wget --session
+    7  sudo apt install wget
+    8  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    9  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   10  google-chrome
+   11  https://www.google.com/
+   12  google_chrome
+   13  google-chrome
+   14  clear
+   15  mkdir projet_3
+   16  ls
+   17  mkdir projet_1 mkdir projet_2
+   18  ls
+   19  clear
+   20  ls
+   21  clear
+   22  rmdir projet_3
+   23  ls
+   24  rmdir mkdir
+   25  ls
+   26  clear
+   27  mkdir projet_3
+   28  ls
+   29  google-chrome
+   30  clear
+   31  cd ../download
+   32  cd ../downloads
+   33  clear
+   34  ls
+   35  mv rarlinux-6.0.2.tar.gz /projet_3
+   36  clear
+   37  cd projet_3
+   38  ls
+   39  clear
+   40  ls
+   41  unzip rarlinux-6.0.2.tar.gz.zip -d projet_3
+   42  unzip rarlinux-6.0.2.tar.gz -d projet_3
+   43  man unzip
+   44  clear
+   45  gunzip rarlinux-6.0.2.tar.gz
+   46  ls
+   47  clear
+   48  cd ../../downloads
+   49  ..
+   50  ../
+   51  cd ..
+   52  clear
+   53  cd ../downloads
+   54  ls
+   55  tar -xzvf rarlinux-6.0.2.tar.gz -c /projet_3
+   56  tar -xzvf rarlinux-6.0.2.tar.gz -C /projet_3
+   57  tar -xzvf rarlinux-6.0.2.tar.gz -c / projet_3
+   58  tar -xf rarlinux-6.0.2.tar.gz -c /projet_3
+   59  tar zxvf rarlinux-6.0.2.tar.gz -c /projet_3
+   60  tar --help
+   61  clear
+   62  tar -zxvf rarlinux-6.0.2.tar.gz
+   63  ls
+   64  tar -zxvf rarlinux-6.0.2.tar.gz -c projet_3
+   65  tar -zxvf rarlinux-6.0.2.tar.gz -C projet_3
+   66  ls
+   67  cd projet_3
+   68  ls
+   69  man ls
+   70  ls -ailu
+   71  ls ail
+   72  ls-ail
+   73  ls -ail
+   74  clear
+   75  ls -ailu
+   76  cd ../
+   77  mkdir projet_4
+   78  ls
+   79  cd projet_4
+   80  touch application.log
+   81  ls
+   82  ping
+   83  ping https://www.google.com
+   84  ping https://www.google.com/
+   85  ping google-chrome
+   86  ping google.com
+   87  clear
+   88  cd ../projet_3
+   89  ls al
+   90  ls -al
+   91  cd ../projet_4
+   92  clear
+   93  echo FATAL ERROR COVID-19 IS STILL THERE clear! >> application.log
+   94  cat application.log
+   95  cat > application.log
+   96  cat application .log
+   97  cat application.log
+   98  echo FATAL ERROR COVID-19 IS STILL THERE cat application.log! >> application.log
+   99  cat application.log
+  100  clear
+  101  echo "FATAL ERROR COVID-19 IS STILL THERE clear!" application.log
+  102  cat application.log
+  103  clear 
+  104  echo "FATAL ARROR COVID-19 IS STILL THERE clear !" >>application.log
+  105  cat application.log
+  106  echo "FATAL ERROR COVID-19 IS STILL THERE cat application.log!" > application.log
+  107  cat application.log
+  108  clear
+  109  echo "FATAL ERROR COVID-19 IS STILL THERE" >> application.com
+  110  cat application.com
+  111  ls -aliu
+  112  [mint@mint ~]# adduser Dimitri
+  113  mint : ~ # useradd Dimitri
+  114  localhost : ~ # useradd Dimitri
+  115  sudo adduser Dimitri
+  116  sudo useradd dimitri
+  117  echo "FATAL ERROR COVID-19 IS STILL THERE" > application.log
+  118  cat application.log
+  119  setxkbmap fr
+  120  ls -alui
+  121  sudo adduser dimitri
+  122  w
+  123  sudo adduser tp_linux
+  124  sudo chown -R mint:tp_linux application.log
+  125  sudo chown tp_linux apllication.log
+  126  chown tp_linux application.log
+  127  w
+  128  sudo adduser tp_linux
+  129  sudo chown tp_linux application.log
+  130  sudo chmod 777 application.log
+  131  ls -l application.log
+  132  lshw
+  133  sudo lshw
+  134  history
+  135  hostname
+  136  man sudo
+  137  man chown
+  138  man chmod
+  139  cd ..
+  140  mkdir projet_5
+  141  ls
+  142  mkdir projet_6
+  143  ls
+  144  cd projet_5
+  145  touch mon_fichier_5.txt
+  146  ls
+  147  ln -s mon_fichier_5.txt mon_lien_fichier
+  148  ls
+  149  file mon_lien_fichier
+  150  mkdir projet_7
+  151  cd ..
+  152  ls
+  153  mkdir projet_7
+  154  ls
+  155  ln -s projet_7 mon_lien_dossier
+  156  ls
+  157  file mon_lien_dossier
+  158  setxkbmap fr
+  159  cd /Documents
+  160  cd Documents
+  161  google-chrome
+  162  clear
+  163  cd tp_linux
+  164  ls -al
+  165  cd TP1_script_linux
+  166  mkdir TP1_script_linux
+  167  cd TP1_script_linux
+  168  touch script_tp_1.sh
+  169  ls
+  170  nano
+  171  nano script_tp_1.sh 
+  172  date
+  173  date > mon_fichier.txt
+  174  nano mon_fichier.txt
+  175  nano script_tp_1.sh 
+  176  sh script_tp_1.sh 
+  177  cat mon_fichier.txt
+  178  nano script_tp_1.sh 
+  179  cat mon_fichier.txt
+  180  sh script_tp_1.sh 
+  181  clear
+  182  nano script_tp_1.sh 
+  183  sh script_tp_1.sh 
+  184  cat mon_fichier.txt 
+  185  nano script_tp_1.sh 
+  186  sh script_tp_1.sh 
+  187  cat mon_fichier.txt
+  188  nano script_tp_1.sh 
+  189  sh script_tp_1.sh 
+  190  cat mon_fichier.txt 
+  191  sh script_tp_1.sh 
+  192  cat mon_fichier.txt 
+  193  clear
+  194  setxkb;qp fr
+  195  setxkbmap fr
+  196  clear
+  197  apt-get install git
+  198  sudo apt-get
+  199  sudo apt-get update
+  200  sudo apt-get install git
+  201  clear
+  202  ls
+  203  cd tp_linux
+  204  git clone https://github.com/vollandd/day00.git
+  205  ls
+  206  cd day00
+  207  mkdir ex00
+  208  cd ex00
+  209  clear
+  210  mkdir covers
+  211  cd covers
+  212  mkdir constructeurs
+  213  cd constructeurs
+  214  mkdir sony
+  215  cd sony
+  216  mkdir consoles
+  217  cd consoles
+  218  mkdir PS4
+  219  mkdir PS5
+  220  ..
+  221  ./
+  222  .
+  223  /.
+  224  /..
+  225  cd ..
+  226  mkdir consoles portables
+  227  cd ..
+  228  ls
+  229  mkdir nintendo
+  230  mkdir microsoft
+  231  mkdir sega
+  232  cd nintendo
+  233  mkdir consoles
+  234  mkdir consoles portables
+  235  ls
+  236  rm portables
+  237  rm -rf portables
+  238  ls
+  239  mkdir consoles_portables
+  240  ls
+  241  cd ..
+  242  cd sony
+  243  ls
+  244  rm -rf portables
+  245  mkdir consoles_portables
+  246  ls
+  247  cd ../nintendo
+  248  ls
+  249  cd consoles
+  250  mkdir gamecube
+  251  cd ../consoles_portables
+  252  mkdir gameboy
+  253  ls
+  254  cd ../../microsoft
+  255  ls
+  256  mkdir consoles
+  257  cd consoles
+  258  mkdir xbox
+  259  mkdir xbox360
+  260  ls
+  261  cd ../../sega
+  262  mkdir consoles
+  263  cd consoles
+  264  mkdir dreamcast
+  265  ls
+  266  cd ../../sony
+  267  ls
+  268  rm -rf consoles_portables
+  269  ls
+  270  cd ../../..
+  271  clear
+  272  mv dc_jetgrindradio_10.jpg dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg cover/constructeurs/sega/consoles/dreamcast
+  273  mv dc_jetgrindradio_10.jpg dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg /cover/constructeurs/sega/consoles/dreamcast
+  274  mv dc_jetgrindradio_10.jpg dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg /covers/constructeurs/sega/consoles/dreamcast
+  275  mv dc_jetgrindradio_10.jpg dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg /covers/constructeurs/sega/consoles/dreamcast/
+  276  ls
+  277  mv dc_jetgrindradio_10.jpg covers/
+  278  cd covers/
+  279  mv dc_jetgrindradio_10.jpg constructeurs/
+  280  cd ../
+  281  mv dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg playstation_5.farcry6.jpg playstation_5.residentevilvillage_.jpg ps4_fifa14.jpg playstation_5.assassinscreedvalhalla.jpg playstation_4.assassinscreedodyssey.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.watchdogs2.jpg x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg /covers
+  282  mv dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg playstation_5.farcry6.jpg playstation_5.residentevilvillage_.jpg ps4_fifa14.jpg playstation_5.assassinscreedvalhalla.jpg playstation_4.assassinscreedodyssey.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.watchdogs2.jpg x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg covers
+  283  cd covers
+  284  mv dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg constructeurs/sega/consoles/dreamcast
+  285  mv gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg constructeurs/nintendo/consoles_portables/gameboy/
+  286  mv gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg constructeurs/nintendo/consoles/gamecube/
+  287  mv playstation_4.assassinscreedodyssey.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.watchdogs2.jpg constructeurs/sony/consoles/PS4/
+  288  mv ps4_fifa14.jpg constructeurs/sony/consoles/PS4/
+  289  mv playstation_5.assassinscreedvalhalla.jpg playstation_5.farcry6.jpg playstation_5.residentevilvillage_.jpg constructeurs/sony/consoles/PS5/
+  290  mv x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg constructeurs/microsoft/consoles/xbox360/
+  291  mv xbox_360.fableiii.jpg constructeurs/microsoft/consoles/xbox360/
+  292  mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg constructeurs/microsoft/consoles/xbox
+  293  cd constructeurs/
+  294  mv dc_jetgrindradio_10.jpg sega/consoles/dreamcast/
+  295  cd ../../../
+  296  cd ex00
+  297  history
+  298  history > command.txt
